@@ -1,6 +1,6 @@
-# GitHub Email Extractor 🔍📧
+# GitHub scrabber 🔍📧
 
-**GitHub Email Extractor** is a Python tool that helps you find public email addresses linked to a GitHub user by scanning their public commits and events. It uses the official GitHub API to gather information visible on the user's profile and repositories.
+**GitHub scrab** is a Python tool that helps you find public email addresses linked to a GitHub user by scanning their public commits and events. It uses the official GitHub API to gather information visible on the user's profile and repositories.
 
 ---
 
